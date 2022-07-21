@@ -19,7 +19,7 @@ Sprawnie będę poruszał się także w projektach zwinnych, dzięki zajęciom w
 
 <center>
 
-![profile](img/scrum_certificate.png)
+![profile](img/111.png)
 
 </center>
 
