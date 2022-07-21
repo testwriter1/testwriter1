@@ -62,7 +62,7 @@ W czasie kursu przygotowywaliśmy się do egzaminu ISTQB Foundation Level, któr
 
 <center>
 
-![profile](img/technical_skills.png)
+
 
 </center>
 
@@ -70,8 +70,6 @@ W czasie kursu przygotowywaliśmy się do egzaminu ISTQB Foundation Level, któr
 Testowanie to nie wszystko, w wolnym czasie eksploruje lasy na rowerze górskim.
 
 <center>
-
-![mtb](img/mtb.jpg)
 
 </center>
 
