@@ -12,14 +12,14 @@ Testowanie oprogramowania jest niezmiennie ważnym elementem procesu wytwarzania
 
 <center>
 
-![profile]
+
 </center>
 
 Sprawnie będę poruszał się także w projektach zwinnych, dzięki zajęciom wprowadzających do metodyki Scrum:
 
 <center>
 
-![profile](img/111.png)
+
 
 </center>
 
