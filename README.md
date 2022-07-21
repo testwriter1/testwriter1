@@ -12,8 +12,8 @@ Testowanie oprogramowania jest niezmiennie ważnym elementem procesu wytwarzania
 
 <center>
 
-![profile](img/111.png)
-
+![profile](img/blob/main/111.PNG)
+https://github.com/testwriter1/img/blob/main/111.PNG
 </center>
 
 Sprawnie będę poruszał się także w projektach zwinnych, dzięki zajęciom wprowadzających do metodyki Scrum:
