@@ -12,7 +12,7 @@ Testowanie oprogramowania jest niezmiennie ważnym elementem procesu wytwarzania
 
 <center>
 
-![profile](img/tester_certificate.png)
+![profile](img/111.png)
 
 </center>
 
